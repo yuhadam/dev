@@ -1,0 +1,13 @@
+{
+"schedule": "R1/2014-09-25T17:22:00Z/PT2M",
+"name": "bwa-Mon Jul 25 16:45:45 KST 2016",
+"container": {
+"type": "DOCKER",
+"image": "yuhadam/bwa-Mon Jul 25 16:45:45 KST 2016",
+"network": "BRIDGE",
+}
+"cpus": "0.5",
+"mem": "512",
+"uris": [],
+"command": "/tmp//tmp innerSh.sh
+}
